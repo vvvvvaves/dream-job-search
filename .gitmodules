@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/vvvvvaves/dream-job-search-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/vvvvvaves/dream-job-search-frontend
